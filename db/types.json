@@ -1,0 +1,33 @@
+{
+  "types": [{
+    "id": 0,
+    "category": 0,
+    "name": "0personal",
+    "description": "0Fireworks intended for recreational use during holiday celebrations"
+  }, {
+    "id": 1,
+    "category": 0,
+    "name": "1wholesale",
+    "description": "1Fireworks intended for recreational use during holiday celebrations"
+  }, {
+    "id": 2,
+    "category": 0,
+    "name": "2professional",
+    "description": "2Fireworks intended for recreational use during holiday celebrations"
+  }, {
+    "id": 3,
+    "category": 1,
+    "name": "3personal",
+    "description": "3Fireworks intended for recreational use during holiday celebrations"
+  }, {
+    "id": 4,
+    "category": 1,
+    "name": "4wholesale",
+    "description": "4Fireworks intended for recreational use during holiday celebrations"
+  }, {
+    "id": 5,
+    "category": 1,
+    "name": "5professional",
+    "description": "5Fireworks intended for recreational use during holiday celebrations"
+  }]
+}
